@@ -16,9 +16,9 @@ This is a simple Java application implementing a basic bank management system. I
 ## Installation
 
 1. Ensure you have Java installed on your system.
-2. Clone this repository using `git clone https://github.com/yourusername/repositoryname.git`.
-3. Compile the Java files using `javac Main.java`.
-4. Run the compiled program using `java Main`.
+2. Clone this repository using `git clone https://github.com/Preethika33/atm-console-appplication.git`.
+3. Compile the Java files using `javac atm.java`.
+4. Run the compiled program using `java atm`.
 
 ## Usage
 
