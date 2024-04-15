@@ -1,6 +1,6 @@
 # atm-console-appplication
 
-
+ 
 # Simple Bank Management System
 
 This is a simple Java application implementing a basic bank management system. It allows users to create accounts, deposit and withdraw funds, check balances, and administrators to authenticate and perform administrative tasks.
